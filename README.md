@@ -7,7 +7,7 @@
 
 ![Jean GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean13331&show_icons=true&theme=highcontrast)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean13331)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia 
 
